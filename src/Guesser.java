@@ -11,6 +11,7 @@ public class Guesser{
     private int low;
     private int high;
 
+
     /*
      * Task 1. Write code here for a constructor
      * which takes two int arguments and saves
@@ -24,6 +25,16 @@ public class Guesser{
 
     // Write the constructor below this line.
 
+    public Guesser(int low, int high) {
+        if (low < high &&  low >= 0 && high <= 1000) {
+            this.low = low;
+            this.high = high;
+        }
+        else
+        throw new IllegalArgumentException("The first parameter must be lower than the second parameter");
+
+    }
+
 
     /*
      * Task 2. Complete the start() method, so that
@@ -31,8 +42,11 @@ public class Guesser{
      * rules() method, next the doGuesses() method.
      */
     public void start(){
+
         // call the rules method here
+        rules();
         // call the doGuesses() method here
+        doGuesses();
     }
 
     private void rules(){
