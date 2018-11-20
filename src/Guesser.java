@@ -72,7 +72,7 @@ public class Guesser{
     private String getReply() {
         String reply = "";
         while
-        (!reply.equalsIgnoreCase("F") || !reply.equalsIgnoreCase("T")){
+        (!reply.equals("F") && !reply.equals("T")){
         System.out.println("Please enter a valid answer");
         reply = scanner.nextLine();
     }
