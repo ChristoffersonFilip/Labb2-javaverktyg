@@ -1,0 +1,18 @@
+○ När använder man add respektive commit?
+Add använder man för att skicka filer till staging area och förbereda för att göra commit, commit används för att
+lägga ändringarna i mitt repository
+
+○ Vad är pull repektive push?
+Pull används när man hämtar nya commits från t.ex github medans push används för att skicka upp dina lokala
+filer till github
+
+○ När använder man log respektive status?
+Log används när man vill få "commit id" eller se vad man gjort i sina tidigare commit om man t.ex vill gå tillbaka
+och göra ändringar medans status används för att se om alla filer har hamnat i staging area eller om någon fil
+har blivit modifierad eller missad
+
+○ Hur kan man formulera sig i sina commit-meddelanden?
+Det är bra att formulera sig kort och tydlig så att vem som helst kan läsa och förstå vad man har gjort för
+ändringar
+
+https://github.com/rezerz/Labb2-javaverktyg

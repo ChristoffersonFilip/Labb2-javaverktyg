@@ -5,7 +5,7 @@ public class GuessingGame {
         int high = Integer.parseInt(args[1]);
 
         Guesser a = new Guesser(low, high);
-        
+
         a.start();
 
     }

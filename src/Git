@@ -1,0 +1,30 @@
+commit f145f00fca6564e54380bb023973fa3e302611e4 (HEAD -> master)
+Author: Filip Christofferson <Filip.christofferson@gmail.com>
+Date:   Tue Nov 20 11:41:41 2018 +0000
+
+    Add GuessingGame.java
+
+commit 9351b8fe6961e8d5d0d20b2bce840e5b6ef89e5c
+Author: Filip Christofferson <Filip.christofferson@gmail.com>
+Date:   Tue Nov 20 11:29:05 2018 +0000
+
+    Fix getReply method
+
+commit 4d82ceb9b3916bc157fa032af393d9572ac3af8b
+Author: Filip Christofferson <Filip.christofferson@gmail.com>
+Date:   Tue Nov 20 11:12:01 2018 +0000
+
+    Add constructor
+
+commit 46ba9f62ffd569048550a436dee1826d815ce94c (origin/master)
+Author: Filip Christofferson <Filip.christofferson@gmail.com>
+Date:   Tue Nov 20 10:53:03 2018 +0000
+
+    Added Guesser.java
+
+commit 5c8f0f4e8732056eafc389f79c8ddc3329f9ccf0
+Author: Filip Christofferson <Filip.christofferson@gmail.com>
+Date:   Tue Nov 20 10:50:03 2018 +0000
+
+    Initial commit
+
